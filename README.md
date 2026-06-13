@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Hamza Al-Shboul 👋
 
-<!--
-**hamzashboul/hamzashboul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CS Graduate | Isra University, Jordan  
+💻 Full Stack Developer | JavaScript · TypeScript · React · Node.js  
+📍 Amman, Jordan  
+📫 hamzashboul282@gmail.com
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+**Frontend:** React · TypeScript · HTML · CSS · JavaScript  
+**Backend:** Node.js · Express  
+**Tools:** Git · Docker · VS Code · Supabase
+
+---
+
+## 📌 Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [Bus on Demand - Frontend](https://github.com/hamzashboul/busondemand-frontend) | Smart bus booking & tracking system 🚌 | JavaScript · React |
+| [Bus on Demand - Backend](https://github.com/hamzashboul/busondemand-backend) | REST API & server side 🚌 | JavaScript · Node.js |
+| [AK Perfume](https://github.com/hamzashboul/ak-perfume) | E-commerce store 🚧 Work in Progress | TypeScript |
+
+---
+
+## 🔗 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-alshboul)
